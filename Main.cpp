@@ -14,7 +14,7 @@ int main(){
     if (usuario != "" || usuario != " "){
         cout<<"H O L A A "<<usuario<<endl;
     }else{
-        cout <<"H O L A  M U N D O"<<endl;
+        cout <<"H O L A A  M U N D O"<<endl;
     }
 
 }
